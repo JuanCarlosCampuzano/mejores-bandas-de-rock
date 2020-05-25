@@ -1,0 +1,99 @@
+p {
+	font-family: "arial black ";
+	font-size:20px;
+	font-size:bold;
+	color: green;
+	text-align:center;
+	line-height:20px;
+	text-decoration:none;/*underline*/
+	}
+	
+#a{
+	font-family: "arial black";
+	font-size:50px;
+	font-size:bold;
+	color: white;
+	/*float:center;*/
+	}
+	
+#b{
+	font-size:30px;
+	color:black;
+	}
+	
+	
+#u {
+	font-family: "Impact";
+	font-size:70px;
+	color: white;
+	}
+#o {
+	font-family: "Verdana";
+	font-size:70px;
+	color: black;
+	}
+#q {
+	font-family: "Algerian";
+	font-size:70px;
+	color: #1EFFF9;
+	}
+#unos {	
+	font-family: "Geneva";
+	font-size:4 px;
+	color: black;
+	text-align: justify
+	}
+	
+	
+#uno {
+	font-family: "lucida bright";
+	font-size:2 px;
+	color: white;
+	text-align: justify
+	}
+#doss {
+	font-family: "didot";
+	font-size:10 px;
+	color: black;
+	text-align: justify
+	}
+	
+#dos {
+	font-family: "didot";
+	font-size:10 px;
+	color: white;
+	}
+#tres {
+	font-family: "Candara";
+	font-size:3 px;
+	color: white;
+	text-align: center
+}
+#tress {
+	font-family: "Candara";
+	font-size:3 px;
+	color: black;
+	text-align: center
+}
+
+form {
+	width:50%;
+	border:2px solid #ccc ;
+	margin:20px;
+	padding:20px;
+	
+	}
+label {font-size:12px;
+	display:block;
+	}
+imput{ margin-bottom:20px
+	width:100%;
+	padding:10px;
+	border:1px solid #ccc;
+	}
+imput:focus {
+border:1p`x solid #1668c4;}
+imput [type="submit"]{ background: #1668c4; color: #fff; border:none;}
+
+
+
